@@ -12,12 +12,12 @@ M.Sc. in Software Security & Engineering (UniGe). Focused on Software Security, 
 
 ## 🛠️ Core Technical Skillset
 
-- Specializations: Software Security Engineering, Reverse Engineering, Binary Analysis, Distributed Systems, Cloud Infrastructure, IoT Security & Architectures, CTF
-- Security & Analysis Tools: Ghidra, Wireshark, ImHex
+- Specializations: Software Security Engineering, Reverse Engineering, Binary Analysis, Distributed Systems, Cloud Infrastructure, IoT Security & Architectures, Network Analysis, Digital Forensics 
+- Security & Analysis Tools: Ghidra, Wireshark, ImHex, Eric Zimmerman's Tools 
 - Operating Systems & Shell: Linux (Arch, Debian/Ubuntu), Bash Scripting
 - Languages: Python, C, C++, Assembly, OCaml, Java, JavaScript, PHP, SQL, Kotlin
-- DevOps, Observability & Tooling: Docker, Vagrant, Grafana, Prometheus, Loki
-- Frameworks & Libraries: Node.js, React
+- DevOps: Docker, Vagrant, Grafana, Prometheus, Loki
+- Frameworks: Node.js, React
 - Databases: PostgreSQL, MySQL, SQLite
 
 ---
