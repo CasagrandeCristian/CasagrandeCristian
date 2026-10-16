@@ -40,5 +40,5 @@ M.Sc. in Software Security & Engineering (UniGe). Focused on Software Security, 
 
 ## 📬 Contact & Links
 
-- LinkedIn:
-- Email: 
+- LinkedIn: linkedin.com/in/cristian-casagrande-7aa5ba444
+- Email: cristiancasagrande1996@gmail.com
